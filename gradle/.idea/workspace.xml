@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a966875b-91d7-41be-812d-3b924e616f0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/NetWorkProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/ProcessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/ReceiveEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/SendEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cs171_PA2/.idea/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cs171_PA2/.idea/cs171_PA2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cs171_PA2/ReceiveEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cs171_PA2/SendEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4pm-gold-scheduler" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/DBcsvTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/dataCsvTest.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/dataTest.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/out/production/DBcsvTest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBcsvTest/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OPENCVmain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/out/production/webTesting3/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webTesting3/webTesting3.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1b93qyFJoaBpOI4peZ1jrY1Q2PL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a966875b-91d7-41be-812d-3b924e616f0c" name="Default Changelist" comment="" />
+      <created>1588030676396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588030676396</updated>
+    </task>
+    <servers />
+  </component>
+</project>
